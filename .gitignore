@@ -169,3 +169,6 @@ outputs/bird.png
 data
 wandb
 output/
+
+#.idea
+.idea/
